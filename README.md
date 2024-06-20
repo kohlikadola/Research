@@ -11,7 +11,7 @@ This repository contains code and documentation for various machine learning res
 
 ## Getting Started
 
-1. Clone the repository: `git clone [https://github.com/kohlikadola/Research/]`
+1. Clone the repository: `git clone https://github.com/kohlikadola/Research
 2. Navigate to the project folder of interest.
 3. Follow the instructions in the project's README file.
 
